@@ -1,4 +1,3 @@
-# BTH_014-Software-Testing
 # 🧪 Pickle Module Stability & Correctness Test Suite
 
 ## 📌 Project Objective
