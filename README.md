@@ -57,5 +57,3 @@ The test suite includes both **white-box** and **black-box** techniques.
 | Linux   | ✅              | ❌             |
 
 ---
-
-## 📊 Directory Overview
