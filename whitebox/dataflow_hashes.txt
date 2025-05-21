@@ -1,0 +1,19 @@
+TC_DF_01 dispatch[int] used
+Linux     Result: b78afd939a4aef912cfa7945f436bb5de305a4dc69cae7af84ddd948519f3a31
+macOS     Result: b78afd939a4aef912cfa7945f436bb5de305a4dc69cae7af84ddd948519f3a31
+Windows   Result: b78afd939a4aef912cfa7945f436bb5de305a4dc69cae7af84ddd948519f3a31
+
+TC_DF_02 memo reused
+Linux     Result: fd6f1c67c6a01a87b514543fcc927e76d2d0cea7fdedcd6fb96e63d781f99a2f
+macOS     Result: fd6f1c67c6a01a87b514543fcc927e76d2d0cea7fdedcd6fb96e63d781f99a2f
+Windows   Result: fd6f1c67c6a01a87b514543fcc927e76d2d0cea7fdedcd6fb96e63d781f99a2f
+
+TC_DF_03 memo not reused
+Linux     Result: b24b57aa92344c16c3b542410745c70f62724188e914967ba94565ffb3821eee
+macOS     Result: b24b57aa92344c16c3b542410745c70f62724188e914967ba94565ffb3821eee
+Windows   Result: b24b57aa92344c16c3b542410745c70f62724188e914967ba94565ffb3821eee
+
+TC_DF_04 dispatch function call
+Linux     Result: 02985f17a95b8ad0ca0b37d9659510b998086e750bf325b5b11465734d053bec
+macOS     Result: 02985f17a95b8ad0ca0b37d9659510b998086e750bf325b5b11465734d053bec
+Windows   Result: 02985f17a95b8ad0ca0b37d9659510b998086e750bf325b5b11465734d053bec

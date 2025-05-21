@@ -1,0 +1,31 @@
+TC_SC_01 Integer object
+3.12      Result: b78afd939a4aef912cfa7945f436bb5de305a4dc69cae7af84ddd948519f3a31
+3.7       Result: ca9493975e3875030e2d5a5c2265f13827a049d4473f62a448d71c05cd0e41ce
+
+TC_SC_02 List object
+3.12      Result: f9343d7d7ec5c3d8bcced056c438fc9f1d3819e9ca3d42418a40857050e10e20
+3.7       Result: 0b2e0ab2f9000007b958bb4453492309dae1c6e1ddd4428f53455b053d662e67
+
+TC_SC_03 Nested dictionary
+3.12      Result: 46216ca97eebc983a09cf7458c32f2729fdb45b99151fb47939d51addc34c162
+3.7       Result: 47cabfa3ba087c959992b7202c61311211c457a480a578a6375a27fea5adbba0
+
+TC_SC_04 Custom class object
+3.12      Result: dcfdf5f39f6649b2a26f445ee7f6e9c4bc0f087899683146f6a0a2561c9d3ee7
+3.7       Result: 597fdbdbed85070e944ef0258a8c8cc5681aedeb0c33a5b21b13aa57c331e7d3
+
+TC_IO_01 File I/O consistency
+3.12      Result: eebed109eb579b15e13ec8e5363fa6443fbc257d588f726f850cf3533fc38e38
+3.7       Result: 463c652e7f39053c03c19f3e2971529b0394e31c5845a42c27ca198ab558d7ce
+
+TC_IO_02 Bytes I/O consistency
+3.12      Result: bc65c78627ed9f44a1f7d8e3823e274968aeff4a5e3f10117bbc449f84229ef9
+3.7       Result: e5bc9a02a94d5ac849464af954b8e1a3617fd64bfa93ca149a477640ad79fe81
+
+TC_IO_03 Empty byte stream error
+3.12      Result: 7b28057c88bd9c9b14f9f90be00f87b08c485b3e9cc2ba1cdd9ea7ffa44c401e
+3.7       Result: 69f2479ab0f7a4cdb5972621113c474f49b4ebcacd295940348c0cac21d75999
+
+TC_IO_04 Invalid byte stream error
+3.12      Result: 4c883567c97b94d54cf53e14597c7f8f92ae217b7d22c7f4ff77f5c0df8c238a
+3.7       Result: a7b2ecc1b7b5d363f7f1b0482664ede8c14fdab84d535c1ad6a1707022c34da9
