@@ -1,0 +1,39 @@
+TC_SC_01 Integer object
+Linux     Result: b78afd939a4aef912cfa7945f436bb5de305a4dc69cae7af84ddd948519f3a31
+macOS     Result: b78afd939a4aef912cfa7945f436bb5de305a4dc69cae7af84ddd948519f3a31
+Windows   Result: b78afd939a4aef912cfa7945f436bb5de305a4dc69cae7af84ddd948519f3a31
+
+TC_SC_02 List object
+Linux     Result: f9343d7d7ec5c3d8bcced056c438fc9f1d3819e9ca3d42418a40857050e10e20
+macOS     Result: f9343d7d7ec5c3d8bcced056c438fc9f1d3819e9ca3d42418a40857050e10e20
+Windows   Result: f9343d7d7ec5c3d8bcced056c438fc9f1d3819e9ca3d42418a40857050e10e20
+
+TC_SC_03 Nested dictionary
+Linux     Result: 46216ca97eebc983a09cf7458c32f2729fdb45b99151fb47939d51addc34c162
+macOS     Result: 46216ca97eebc983a09cf7458c32f2729fdb45b99151fb47939d51addc34c162
+Windows   Result: 46216ca97eebc983a09cf7458c32f2729fdb45b99151fb47939d51addc34c162
+
+TC_SC_04 Custom class object
+Linux     Result: dcfdf5f39f6649b2a26f445ee7f6e9c4bc0f087899683146f6a0a2561c9d3ee7
+macOS     Result: dcfdf5f39f6649b2a26f445ee7f6e9c4bc0f087899683146f6a0a2561c9d3ee7
+Windows   Result: dcfdf5f39f6649b2a26f445ee7f6e9c4bc0f087899683146f6a0a2561c9d3ee7
+
+TC_IO_01 File I/O consistency
+Linux     Result: eebed109eb579b15e13ec8e5363fa6443fbc257d588f726f850cf3533fc38e38
+macOS     Result: eebed109eb579b15e13ec8e5363fa6443fbc257d588f726f850cf3533fc38e38
+Windows   Result: eebed109eb579b15e13ec8e5363fa6443fbc257d588f726f850cf3533fc38e38
+
+TC_IO_02 Bytes I/O consistency
+Linux     Result: bc65c78627ed9f44a1f7d8e3823e274968aeff4a5e3f10117bbc449f84229ef9
+macOS     Result: bc65c78627ed9f44a1f7d8e3823e274968aeff4a5e3f10117bbc449f84229ef9
+Windows   Result: bc65c78627ed9f44a1f7d8e3823e274968aeff4a5e3f10117bbc449f84229ef9
+
+TC_IO_03 Empty byte stream error
+Linux     Result: 7b28057c88bd9c9b14f9f90be00f87b08c485b3e9cc2ba1cdd9ea7ffa44c401e
+macOS     Result: 7b28057c88bd9c9b14f9f90be00f87b08c485b3e9cc2ba1cdd9ea7ffa44c401e
+Windows   Result: 7b28057c88bd9c9b14f9f90be00f87b08c485b3e9cc2ba1cdd9ea7ffa44c401e
+
+TC_IO_04 Invalid byte stream error
+Linux     Result: 4c883567c97b94d54cf53e14597c7f8f92ae217b7d22c7f4ff77f5c0df8c238a
+macOS     Result: 4c883567c97b94d54cf53e14597c7f8f92ae217b7d22c7f4ff77f5c0df8c238a
+Windows   Result: 4c883567c97b94d54cf53e14597c7f8f92ae217b7d22c7f4ff77f5c0df8c238a
