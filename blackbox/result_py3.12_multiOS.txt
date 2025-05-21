@@ -1,0 +1,139 @@
+[bool]
+Windows
+Hash: 112bda3b495d867b6a98c899fac7c25eb60ca4b6e6fe5ec7ab9299f93e8274bc
+Linux
+Hash: 112bda3b495d867b6a98c899fac7c25eb60ca4b6e6fe5ec7ab9299f93e8274bc
+macOS
+Hash: 112bda3b495d867b6a98c899fac7c25eb60ca4b6e6fe5ec7ab9299f93e8274bc
+
+Match across OS: True
+
+[custom_object]
+Windows
+Hash: dd06ed514f4696a7de3d07cb84394517fd6f023ffca853ee01bbfc8cffd2d731
+Linux
+Hash: dd06ed514f4696a7de3d07cb84394517fd6f023ffca853ee01bbfc8cffd2d731
+macOS
+Hash: dd06ed514f4696a7de3d07cb84394517fd6f023ffca853ee01bbfc8cffd2d731
+
+Match across OS: True
+
+[dict]
+Windows
+Hash: c5e8a924d1f9a56579043eb2f6c78c5b26e1c44345f2afc7ed8456c8f2e8e080
+Linux
+Hash: c5e8a924d1f9a56579043eb2f6c78c5b26e1c44345f2afc7ed8456c8f2e8e080
+macOS
+Hash: c5e8a924d1f9a56579043eb2f6c78c5b26e1c44345f2afc7ed8456c8f2e8e080
+
+Match across OS: True
+
+[empty_dict]
+Windows
+Hash: 926248e52d1fa532c317e37da24ed652ae64110f8219cb5e061668bd3091f048
+Linux
+Hash: 926248e52d1fa532c317e37da24ed652ae64110f8219cb5e061668bd3091f048
+macOS
+Hash: 926248e52d1fa532c317e37da24ed652ae64110f8219cb5e061668bd3091f048
+
+Match across OS: True
+
+[empty_string]
+Windows
+Hash: 8e2a8bd996c29b99c909664ee51eb5ee3b2358306a4269d5b69dd99075e6dd85
+Linux
+Hash: 8e2a8bd996c29b99c909664ee51eb5ee3b2358306a4269d5b69dd99075e6dd85
+macOS
+Hash: 8e2a8bd996c29b99c909664ee51eb5ee3b2358306a4269d5b69dd99075e6dd85
+
+Match across OS: True
+
+[float]
+Windows
+Hash: 09f6896d9631a27e470d3def84f1403de4ad5abccc9ad82633ef61e7c560780b
+Linux
+Hash: 09f6896d9631a27e470d3def84f1403de4ad5abccc9ad82633ef61e7c560780b
+macOS
+Hash: 09f6896d9631a27e470d3def84f1403de4ad5abccc9ad82633ef61e7c560780b
+
+Match across OS: True
+
+[int]
+Windows
+Hash: 81976fef9fe34f8f64469792f27360d11781b927280419c5f5514c0da0235b54
+Linux
+Hash: 81976fef9fe34f8f64469792f27360d11781b927280419c5f5514c0da0235b54
+macOS
+Hash: 81976fef9fe34f8f64469792f27360d11781b927280419c5f5514c0da0235b54
+
+Match across OS: True
+
+[list]
+Windows
+Hash: f9343d7d7ec5c3d8bcced056c438fc9f1d3819e9ca3d42418a40857050e10e20
+Linux
+Hash: f9343d7d7ec5c3d8bcced056c438fc9f1d3819e9ca3d42418a40857050e10e20
+macOS
+Hash: f9343d7d7ec5c3d8bcced056c438fc9f1d3819e9ca3d42418a40857050e10e20
+
+Match across OS: True
+
+[long_string]
+Windows
+Hash: 5e80c710eacc2e0bc9d6e55179f3b9897cffa61a837b3241a07d4408d12871f4
+Linux
+Hash: 5e80c710eacc2e0bc9d6e55179f3b9897cffa61a837b3241a07d4408d12871f4
+macOS
+Hash: 5e80c710eacc2e0bc9d6e55179f3b9897cffa61a837b3241a07d4408d12871f4
+
+Match across OS: True
+
+[nested_structure]
+Windows
+Hash: abc05c9a060bbde60e3a8f5d660b2200084f5cb69ebf223a6af422d27015a975
+Linux
+Hash: abc05c9a060bbde60e3a8f5d660b2200084f5cb69ebf223a6af422d27015a975
+macOS
+Hash: abc05c9a060bbde60e3a8f5d660b2200084f5cb69ebf223a6af422d27015a975
+
+Match across OS: True
+
+[none]
+Windows
+Hash: 9c298d589a2158eb513cb52191144518a2acab2cb0c04f1df14fca0f712fa4a1
+Linux
+Hash: 9c298d589a2158eb513cb52191144518a2acab2cb0c04f1df14fca0f712fa4a1
+macOS
+Hash: 9c298d589a2158eb513cb52191144518a2acab2cb0c04f1df14fca0f712fa4a1
+
+Match across OS: True
+
+[set]
+Windows
+Hash: 844e80e1f1ffaba7019345c229a5b8599bdb348864e993f1cbdc2962ce8e23ce
+Linux
+Hash: 844e80e1f1ffaba7019345c229a5b8599bdb348864e993f1cbdc2962ce8e23ce
+macOS
+Hash: 844e80e1f1ffaba7019345c229a5b8599bdb348864e993f1cbdc2962ce8e23ce
+
+Match across OS: True
+
+[tuple]
+Windows
+Hash: 9b08fc3e5e6afd5752d0d6aa225b17137cec31e7d1bb02f1cdce3958283ed971
+Linux
+Hash: 9b08fc3e5e6afd5752d0d6aa225b17137cec31e7d1bb02f1cdce3958283ed971
+macOS
+Hash: 9b08fc3e5e6afd5752d0d6aa225b17137cec31e7d1bb02f1cdce3958283ed971
+
+Match across OS: True
+
+[unicode_string]
+Windows
+Hash: 2c0266d45e782f4d9bd4216876a3a84129ff8762fd261011df1bbcae363c6eb6
+Linux
+Hash: 2c0266d45e782f4d9bd4216876a3a84129ff8762fd261011df1bbcae363c6eb6
+macOS
+Hash: 2c0266d45e782f4d9bd4216876a3a84129ff8762fd261011df1bbcae363c6eb6
+
+Match across OS: True

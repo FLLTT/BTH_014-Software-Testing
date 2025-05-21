@@ -1,0 +1,60 @@
+TC_BC_01-A Max 64-bit int
+Python 3.12.4 result: a6d2c4015b1ac7cdb57d88d220317a5fc2ee30d3e9429988ff53f54b39f1ca97
+Python 3.7.12 result: 6482cd43245b94988ce7819f66e3d835531e1396e2c711cd1e5ff59cad959ed4
+
+TC_BC_01-B Min 64-bit int
+Python 3.12.4 result: f2a91d38c43afdd29e9fc949fe95a887eed4e09aed66e8a27cd4b1a11aeeecc9
+Python 3.7.12 result: ee36ff1edd448ca4912f4677e5c822e1901dafe9090bc14705c015100016e29e
+
+TC_BC_01-C Very large float
+Python 3.12.4 result: be887231de0a3d8b1fe35f3a24110ef5ce1e942b9cee1878387ebc9bb4f96a04
+Python 3.7.12 result: ecd633a161bd2d0747fb6090c4f5be7b7191336d941cec6bc402e8f5c3078c5f
+
+TC_BC_01-D Very small float
+Python 3.12.4 result: 520e518e26e75b483042c7bb66d915778d0d7cfc31c06bce3c1b0118971e29c4
+Python 3.7.12 result: 201fc4f4ec03d0cbe4015fd820f3ab67281c2235ca576b040e396b88f2ae027f
+
+TC_BC_01-E Infinity
+Python 3.12.4 result: 1b51ffe28645d16d1d34475071eef737ef4c1ea09eb443761da2d75821bf3398
+Python 3.7.12 result: 9c3694d605f23718b0e8be79520dc153195ab468c8150ee7165ab913710ba3f7
+
+TC_BC_01-F Negative infinity
+Python 3.12.4 result: 6f5e2cc472d247afe9caf8b0f6a765d70826525e777deb031d6331942675c003
+Python 3.7.12 result: 4de9d2a5d9f45e45fd1176d6fb28deba746519016f3dd0892eb7a3a208e3139c
+
+TC_BC_01-G NaN
+Python 3.12.4 result: 3d9d4af6ee01677bd51d3efb4dca6c1339ae8b2a73102f65990a6cbd7625eba9
+Python 3.7.12 result: 52b565ab592ec0251b8b70a43577d15eff2ef8184c1659cc109b8d7b3180503d
+
+TC_BC_02-A Empty tuple
+Python 3.12.4 result: 559bededcb346584f1200f573f2076d34a011e43064063b0f635e49190772830
+Python 3.7.12 result: c60882f6222b65821e2af3f1d0a1086a04469164bc9617b35fcc612ce814ddee
+
+TC_BC_02-B Single-element tuple
+Python 3.12.4 result: bcba4dba82389d95534333cb72aa9c4b00952e0c6145a63b34379c01f66c8874
+Python 3.7.12 result: c207f65e63fec24848e41debde7c156500f05031243ac0bacf4029d22a4c07c3
+
+TC_BC_02-C Cyclic reference list
+Python 3.12.4 result: 86dc462a0a5b079247e5f114fc256ec30e1e31b7a7d28965ea18ec2021941dc2
+Python 3.7.12 result: 845faf7a64cebdf73f665137333f74dbf05322f97183daacb5b8d66858791ebe
+
+TC_BC_02-D Deeply nested list
+Python 3.12.4 result: a89526128c54a0fe563b834fe17a27907ac9be6e7757b744a11ac372a0ea31d0
+Python 3.7.12 result: 02f2df451b7c3de1b4adb761bec8b4b7c712d66681354005466381c06cdddb2a
+
+TC_BC_02-E Deque with maxlen
+Python 3.12.4 result: e5fb262e3c0dd77be417ace4aa8643b2b4242159bfb24a59e2171c31eb88763a
+Python 3.7.12 result: 2eb05e4c7364a14e7ba5c74e07f1431a40107be3cc60534b15eb11b29c2573a5
+
+TC_BC_03-A Self-referential class
+Python 3.12.4 result: 1ab20fabfe845e0b4467616771a9644565774bff195d8f576161df0f2fdb517e
+Python 3.7.12 result: bd5ed1806efd241d4ee4fd437323c205d021b0894983dbe0a0104779d2e37e90
+
+TC_BC_03-B Lambda function
+Python 3.12.4 result: FAILED: Can't pickle local object 'run_pickle_boundary_tests.<locals>.<lambda>'
+Python 3.7.12 result: FAILED: Can't pickle local object 'run_pickle_boundary_tests.<locals>.<lambda>'
+
+TC_BC_03-C Class with __reduce__
+Python 3.12.4 result: b7ed9817af756736df1e34f099e2535a14166fd1f583d222cc9c4e6ca151c778
+Python 3.7.12 result: d5ce1a9d4f00ab42b06a5e123a04015a8aabda04fb4641146c126da6f7a0b929
+

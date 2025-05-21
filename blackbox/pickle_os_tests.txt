@@ -1,0 +1,40 @@
+TC_OS_01-A Max 64-bit int
+OS: Windows result: a6d2c4015b1ac7cdb57d88d220317a5fc2ee30d3e9429988ff53f54b39f1ca97
+OS: macOS result: a6d2c4015b1ac7cdb57d88d220317a5fc2ee30d3e9429988ff53f54b39f1ca97
+OS: Linux result: a6d2c4015b1ac7cdb57d88d220317a5fc2ee30d3e9429988ff53f54b39f1ca97
+
+TC_OS_01-B Infinity
+OS: Windows result: 1b51ffe28645d16d1d34475071eef737ef4c1ea09eb443761da2d75821bf3398
+OS: macOS result: 1b51ffe28645d16d1d34475071eef737ef4c1ea09eb443761da2d75821bf3398
+OS: Linux result: 1b51ffe28645d16d1d34475071eef737ef4c1ea09eb443761da2d75821bf3398
+
+TC_OS_01-C NaN
+OS: Windows result: 3d9d4af6ee01677bd51d3efb4dca6c1339ae8b2a73102f65990a6cbd7625eba9
+OS: macOS result: 3d9d4af6ee01677bd51d3efb4dca6c1339ae8b2a73102f65990a6cbd7625eba9
+OS: Linux result: 3d9d4af6ee01677bd51d3efb4dca6c1339ae8b2a73102f65990a6cbd7625eba9
+
+TC_OS_02-A Self-referential list
+OS: Windows result: 86dc462a0a5b079247e5f114fc256ec30e1e31b7a7d28965ea18ec2021941dc2
+OS: macOS result: 86dc462a0a5b079247e5f114fc256ec30e1e31b7a7d28965ea18ec2021941dc2
+OS: Linux result: 86dc462a0a5b079247e5f114fc256ec30e1e31b7a7d28965ea18ec2021941dc2
+
+TC_OS_02-B Deque with maxlen
+OS: Windows result: e5fb262e3c0dd77be417ace4aa8643b2b4242159bfb24a59e2171c31eb88763a
+OS: macOS result: e5fb262e3c0dd77be417ace4aa8643b2b4242159bfb24a59e2171c31eb88763a
+OS: Linux result: e5fb262e3c0dd77be417ace4aa8643b2b4242159bfb24a59e2171c31eb88763a
+
+TC_OS_03-A Self-referential class
+OS: Windows result: 1ab20fabfe845e0b4467616771a9644565774bff195d8f576161df0f2fdb517e
+OS: macOS result: 1ab20fabfe845e0b4467616771a9644565774bff195d8f576161df0f2fdb517e
+OS: Linux result: 1ab20fabfe845e0b4467616771a9644565774bff195d8f576161df0f2fdb517e
+
+TC_OS_03-B Lambda function
+OS: Windows result: FAILED: Can't pickle local object 'run_pickle_os_tests.<locals>.<lambda>'
+OS: macOS result: FAILED: Can't pickle local object 'run_pickle_os_tests.<locals>.<lambda>'
+OS: Linux result: FAILED: Can't pickle local object 'run_pickle_os_tests.<locals>.<lambda>'
+
+TC_OS_03-C Class with __reduce__
+OS: Windows result: b7ed9817af756736df1e34f099e2535a14166fd1f583d222cc9c4e6ca151c778
+OS: macOS result: b7ed9817af756736df1e34f099e2535a14166fd1f583d222cc9c4e6ca151c778
+OS: Linux result: b7ed9817af756736df1e34f099e2535a14166fd1f583d222cc9c4e6ca151c778
+

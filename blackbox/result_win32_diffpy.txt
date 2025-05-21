@@ -1,0 +1,186 @@
+[int]
+3.7.12
+Hash1: aa46318347db9653da74aa49aebf6d69955e2487214d7f500a47ed1fc5f9ee3e
+Hash2: aa46318347db9653da74aa49aebf6d69955e2487214d7f500a47ed1fc5f9ee3e
+Match bewtween same version: True
+
+3.12.4
+Hash1: 81976fef9fe34f8f64469792f27360d11781b927280419c5f5514c0da0235b54
+Hash2: 81976fef9fe34f8f64469792f27360d11781b927280419c5f5514c0da0235b54
+Match bewtween same version: True
+
+Match bewtween different version:False
+
+[float]
+3.7.12
+Hash1: a7c98e99d7186202ada32bc403505f5200af6633e0517ec8d2fbc0203aadefd5
+Hash2: a7c98e99d7186202ada32bc403505f5200af6633e0517ec8d2fbc0203aadefd5
+Match bewtween same version: True
+
+3.12.4
+Hash1: 81976fef9fe34f8f64469792f27360d11781b927280419c5f5514c0da0235b54
+Hash2: 81976fef9fe34f8f64469792f27360d11781b927280419c5f5514c0da0235b54
+Match bewtween same version: True
+
+Match bewtween different version:False
+
+[bool]
+3.7.12
+Hash1: 669a00d49bd5409dd9617512b8aa8496bcf68222338ae1785f98986736b3be6f
+Hash2: 669a00d49bd5409dd9617512b8aa8496bcf68222338ae1785f98986736b3be6f
+Match bewtween same version: True
+
+3.12.4
+Hash1: 112bda3b495d867b6a98c899fac7c25eb60ca4b6e6fe5ec7ab9299f93e8274bc
+Hash2: 112bda3b495d867b6a98c899fac7c25eb60ca4b6e6fe5ec7ab9299f93e8274bc
+Match bewtween same version: True
+
+Match bewtween different version:False
+
+[none]
+3.7.12
+Hash1: 4f3fc348a818941a464e415fff6b9d416c1ddc3b1c64743861d328fbc345bcd6
+Hash2: 4f3fc348a818941a464e415fff6b9d416c1ddc3b1c64743861d328fbc345bcd6
+Match bewtween same version: True
+
+3.12.4
+Hash1: 9c298d589a2158eb513cb52191144518a2acab2cb0c04f1df14fca0f712fa4a1
+Hash2: 9c298d589a2158eb513cb52191144518a2acab2cb0c04f1df14fca0f712fa4a1
+Match bewtween same version: True
+
+Match bewtween different version:False
+
+[empty_string]
+3.7.12
+Hash1: 9238a956da94f16cf609c1b8b8ca16940cf1c77a9fb8ecf7f67ef75f6b2e0f68
+Hash2: 9238a956da94f16cf609c1b8b8ca16940cf1c77a9fb8ecf7f67ef75f6b2e0f68
+Match bewtween same version: True
+
+3.12.4
+Hash1: 8e2a8bd996c29b99c909664ee51eb5ee3b2358306a4269d5b69dd99075e6dd85
+Hash2: 8e2a8bd996c29b99c909664ee51eb5ee3b2358306a4269d5b69dd99075e6dd85
+Match bewtween same version: True
+
+Match bewtween different version:False
+
+[unicode_string]
+3.7.12
+Hash1: b200180164bc0b862be5361961cdfe837d1c6c3eb270563538b1dd6a9bb515b0
+Hash2: b200180164bc0b862be5361961cdfe837d1c6c3eb270563538b1dd6a9bb515b0
+Match bewtween same version: True
+
+3.12.4
+Hash1: 2c0266d45e782f4d9bd4216876a3a84129ff8762fd261011df1bbcae363c6eb6
+Hash2: 2c0266d45e782f4d9bd4216876a3a84129ff8762fd261011df1bbcae363c6eb6
+Match bewtween same version: True
+
+Match bewtween different version:False
+
+[long_string]
+3.7.12
+Hash1: e28faca88418f7de33d6b038c51cda1da42153c30de76311c7b8e26eeb5138b2
+Hash2: e28faca88418f7de33d6b038c51cda1da42153c30de76311c7b8e26eeb5138b2
+Match bewtween same version: True
+
+3.12.4
+Hash1: 5e80c710eacc2e0bc9d6e55179f3b9897cffa61a837b3241a07d4408d12871f4
+Hash2: 5e80c710eacc2e0bc9d6e55179f3b9897cffa61a837b3241a07d4408d12871f4
+Match bewtween same version: True
+
+Match bewtween different version:False
+
+[list]
+3.7.12
+Hash1: 0b2e0ab2f9000007b958bb4453492309dae1c6e1ddd4428f53455b053d662e67
+Hash2: 0b2e0ab2f9000007b958bb4453492309dae1c6e1ddd4428f53455b053d662e67
+Match bewtween same version: True
+
+3.12.4
+Hash1: f9343d7d7ec5c3d8bcced056c438fc9f1d3819e9ca3d42418a40857050e10e20
+Hash2: f9343d7d7ec5c3d8bcced056c438fc9f1d3819e9ca3d42418a40857050e10e20
+Match bewtween same version: True
+
+Match bewtween different version:False
+
+[tuple]
+3.7.12
+Hash1: 3687db50424161c41a864dfd3584111820f2fd1cb5844fba9b5c21b403a3c37c
+Hash2: 3687db50424161c41a864dfd3584111820f2fd1cb5844fba9b5c21b403a3c37c
+Match bewtween same version: True
+
+3.12.4
+Hash1: 9b08fc3e5e6afd5752d0d6aa225b17137cec31e7d1bb02f1cdce3958283ed971
+Hash2: 9b08fc3e5e6afd5752d0d6aa225b17137cec31e7d1bb02f1cdce3958283ed971
+Match bewtween same version: True
+
+Match bewtween different version:False
+
+[empty_dict]
+3.7.12
+Hash1: 8ec16a78d9c9d3646c559df239aea3f15333605ddc702eeacebf6dd3ebeff684
+Hash2: 8ec16a78d9c9d3646c559df239aea3f15333605ddc702eeacebf6dd3ebeff684
+Match bewtween same version: True
+
+3.12.4
+Hash1: 926248e52d1fa532c317e37da24ed652ae64110f8219cb5e061668bd3091f048
+Hash2: 926248e52d1fa532c317e37da24ed652ae64110f8219cb5e061668bd3091f048
+Match bewtween same version: True
+
+Match bewtween different version:False
+
+[dict]
+3.7.12
+Hash1: c0ffe77dce19a29da8b6def355638d0908d74e787d550b9b86d2194fb27eca1f
+Hash2: c0ffe77dce19a29da8b6def355638d0908d74e787d550b9b86d2194fb27eca1f
+Match bewtween same version: True
+
+3.12.4
+Hash1: c5e8a924d1f9a56579043eb2f6c78c5b26e1c44345f2afc7ed8456c8f2e8e080
+Hash2: c5e8a924d1f9a56579043eb2f6c78c5b26e1c44345f2afc7ed8456c8f2e8e080
+Match bewtween same version: True
+
+Match bewtween different version:False
+
+[set]
+3.7.12
+Hash1: 8adb531abc7745baac9c0c07befd1d38b26b66f9d04efe97262ed09cd07e3587
+Hash2: 8adb531abc7745baac9c0c07befd1d38b26b66f9d04efe97262ed09cd07e3587
+Match bewtween same version: True
+
+3.12.4
+Hash1: 844e80e1f1ffaba7019345c229a5b8599bdb348864e993f1cbdc2962ce8e23ce
+Hash2: 844e80e1f1ffaba7019345c229a5b8599bdb348864e993f1cbdc2962ce8e23ce
+Match bewtween same version: True
+
+Match bewtween different version:False
+
+[nested_structure]
+3.7.12
+Hash1: 8bffa1f16993b8ce53d65df6a9bc96309e4650dce7db1380ac458459c8728499
+Hash2: 8bffa1f16993b8ce53d65df6a9bc96309e4650dce7db1380ac458459c8728499
+Match bewtween same version: True
+
+3.12.4
+Hash1: abc05c9a060bbde60e3a8f5d660b2200084f5cb69ebf223a6af422d27015a975
+Hash2: abc05c9a060bbde60e3a8f5d660b2200084f5cb69ebf223a6af422d27015a975
+Match bewtween same version: True
+
+Match bewtween different version:False
+
+[custom_object]
+3.7.12
+Hash1: b766f7a914b88a20d7cd6dcea82efb8fcfc69a7a3642a8b3e1c2c632dcaa96bb
+Hash2: b766f7a914b88a20d7cd6dcea82efb8fcfc69a7a3642a8b3e1c2c632dcaa96bb
+Match bewtween same version: True
+
+3.12.4
+Hash1: dd06ed514f4696a7de3d07cb84394517fd6f023ffca853ee01bbfc8cffd2d731
+Hash2: dd06ed514f4696a7de3d07cb84394517fd6f023ffca853ee01bbfc8cffd2d731
+Match bewtween same version: True
+
+Match bewtween different version:False
+
+[unserializable_lambda] → Error: Can't pickle <function <lambda> at 0x00000199C1814AF8>: attribute lookup <lambda> on __main__ failed
+
+[unserializable_file] → Error: cannot serialize '_io.TextIOWrapper' object
+
